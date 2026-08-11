@@ -15,4 +15,4 @@ Program 3
 Rock paper scissor game
 
 Program 4
-Generate random password based on the no the number of letters, symbols and numbers needed.
+Generate random password based on the no the number of letters, symbols and numbers needed
